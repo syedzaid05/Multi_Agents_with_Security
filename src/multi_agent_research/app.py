@@ -187,4 +187,4 @@ main()
 
 
 
-#V=-m streamlit run app.py
+# python -m streamlit run app.py
